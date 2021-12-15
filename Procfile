@@ -1,0 +1,1 @@
+web: gunicorn mytestpro.wsgi
